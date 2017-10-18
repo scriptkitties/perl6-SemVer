@@ -15,7 +15,7 @@
       }
     }
   },
-  "description": "Nondescript",
+  "description": "Class representing a semantic version",
   "meta-version": 1,
   "name": "SemVer",
   "perl": "6.c",
