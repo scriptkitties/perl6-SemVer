@@ -20,7 +20,7 @@
   "name": "SemVer",
   "perl": "6.c",
   "provides": {
-    
+    "SemVer": "lib/SemVer.pm6"
   },
   "tags": [
     
