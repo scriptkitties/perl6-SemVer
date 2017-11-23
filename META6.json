@@ -1,8 +1,5 @@
 {
   "authors": "Patrick Spek <p.spek@tyil.email>",
-  "depends": [
-    
-  ],
   "description": "Class representing a semantic version",
   "meta-version": 1,
   "name": "SemVer",
